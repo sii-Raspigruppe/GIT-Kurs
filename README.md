@@ -19,3 +19,7 @@ Adapter Liste: http://download.iobroker.net/list.html
 
 6. Download:
 
+Etcher: https://www.balena.io/etcher/
+RaspbianBuster: https://www.raspberrypi.org/downloads…
+Putty: https://putty.org/
+
