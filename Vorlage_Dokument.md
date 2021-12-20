@@ -59,9 +59,13 @@ nicht vergessen... wenn dir dieses Tutorial geholfen hat, dann gib mir doch bitt
 
 
 4. Hardware
+ 
 Raspberry Pi4 (4GB): https://amzn.to/2YlmC40
+ 
 Raspberry PI4 Gehäuse: https://amzn.to/2SlpVnW
+ 
 Raspberry PI4 Komplettset: https://amzn.to/3aPBsCl
+ 
 
 5. Links:
 Adapter Liste: http://download.iobroker.net/list.html
