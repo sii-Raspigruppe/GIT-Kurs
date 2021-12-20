@@ -1,6 +1,6 @@
 Quelle: https://www.go4smart.de/iobroker-installieren/
 
-#1. IOBroker Allgemein:
+######1. IOBroker Allgemein:
 
 Iobroker ist mittlerweile eine der beliebtesten Softwarelösungen für die Geräteautomatisierung im smart home. Denn hiermit kann ich eine Plattform erschaffen, wo Geräte unterschiedlicher Hersteller und Protokolle einfach miteinander verbunden werden können.
 
