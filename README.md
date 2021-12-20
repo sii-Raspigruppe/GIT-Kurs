@@ -18,6 +18,11 @@ Raspberry PI4 Gehäuse: https://amzn.to/2SlpVnW
 Raspberry PI4 Komplettset: https://amzn.to/3aPBsCl
 
 5. Links:
+Adapter Liste: http://download.iobroker.net/list.html
 
 6. Download:
+
+Etcher: https://www.balena.io/etcher/
+RaspbianBuster: https://www.raspberrypi.org/downloads…
+Putty: https://putty.org/
 
