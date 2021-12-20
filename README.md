@@ -18,3 +18,7 @@ Quelle: https://www.go4smart.de/iobroker-installieren/
 
 6. Download:
 
+Etcher: https://www.balena.io/etcher/
+RaspbianBuster: https://www.raspberrypi.org/downloads…
+Putty: https://putty.org/
+
