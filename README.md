@@ -25,6 +25,11 @@ nicht vergessen... wenn dir dieses Tutorial geholfen hat, dann gib mir doch bitt
 4. Hardware
 
 5. Links:
+Adapter Liste: http://download.iobroker.net/list.html
 
 6. Download:
+
+Etcher: https://www.balena.io/etcher/
+RaspbianBuster: https://www.raspberrypi.org/downloads…
+Putty: https://putty.org/
 
