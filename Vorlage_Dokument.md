@@ -1,7 +1,7 @@
 Github-Syntax: https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 Quelle: https://www.go4smart.de/iobroker-installieren/
 
-1. IOBroker Allgemein:
+### 1. IOBroker Allgemein:
 
 Iobroker ist mittlerweile eine der beliebtesten Softwarelösungen für die Geräteautomatisierung im smart home. Denn hiermit kann ich eine Plattform erschaffen, wo Geräte unterschiedlicher Hersteller und Protokolle einfach miteinander verbunden werden können.
 
@@ -59,9 +59,13 @@ nicht vergessen... wenn dir dieses Tutorial geholfen hat, dann gib mir doch bitt
 
 
 4. Hardware
+ 
 Raspberry Pi4 (4GB): https://amzn.to/2YlmC40
+ 
 Raspberry PI4 Gehäuse: https://amzn.to/2SlpVnW
+ 
 Raspberry PI4 Komplettset: https://amzn.to/3aPBsCl
+ 
 
 5. Links:
 Adapter Liste: http://download.iobroker.net/list.html
