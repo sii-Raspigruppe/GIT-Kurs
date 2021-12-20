@@ -15,6 +15,7 @@ Quelle: https://www.go4smart.de/iobroker-installieren/
 4. Hardware
 
 5. Links:
+Adapter Liste: http://download.iobroker.net/list.html
 
 6. Download:
 
