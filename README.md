@@ -26,3 +26,7 @@ curl -sL https://iobroker.net/install.sh | bash -
 
 6. Download:
 
+Etcher: https://www.balena.io/etcher/
+RaspbianBuster: https://www.raspberrypi.org/downloads…
+Putty: https://putty.org/
+
