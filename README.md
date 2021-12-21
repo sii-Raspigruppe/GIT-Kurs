@@ -32,9 +32,9 @@ curl -sL https://iobroker.net/install.sh | bash -
 nicht vergessen... wenn dir dieses Tutorial geholfen hat, dann gib mir doch bitte ein Feedback in Form von Kommentar oder noch besser: ein YouTube Abo!
 
 4. Hardware
-Raspberry Pi4 (4GB): https://amzn.to/2YlmC40
-Raspberry PI4 Gehäuse: https://amzn.to/2SlpVnW
-Raspberry PI4 Komplettset: https://amzn.to/3aPBsCl
+Raspberry Pi4 (4GB): https://amzn.to/2YlmC40 <br>
+Raspberry PI4 Gehäuse: https://amzn.to/2SlpVnW <br>
+Raspberry PI4 Komplettset: https://amzn.to/3aPBsCl <br>
 
 5. Links:
 Adapter Liste: http://download.iobroker.net/list.html
